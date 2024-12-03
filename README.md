@@ -1,4 +1,4 @@
-- 👋 Hi, this is roger and helen's site :) 
+- 👋 Hi, this is r and h's site :) 
 
 <!---
 rhsite/rhsite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
